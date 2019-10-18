@@ -1,0 +1,124 @@
+/* DIVIDE INTO SECTONS */
+
+/*-----------------STRUCTURES-----------------*/
+.top-container {
+  background-color: #fef0ff;
+  padding: 50px 0 20px 0;
+}
+
+.middle-container {
+  padding-top: 30px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #7e6bc4;
+}
+
+.music {
+  width: 50%;
+  margin: 50px auto 150px auto;
+  text-align: justify;
+}
+
+.books {
+  width: 50%;
+  margin: 50px auto 150px auto;
+  text-align: justify;
+}
+
+br {
+  height: 2;
+}
+
+hr {
+  border: dotted 6px #d6c8ff;
+  border-bottom: none;
+  width: 6%;
+  margin: 50px auto;
+}
+/*-----------------HTML FONT TAGS-----------------*/
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+  color: #6639a6;
+}
+
+h2 {
+  color: #6639a6;
+}
+
+.less {
+  color: #c79ecf;
+}
+
+span {
+  font-style: italic;
+}
+/*--------------------IMAGE-----------------------*/
+#blue-cupcake{
+  height: 18%;
+  width: 18%;
+  float: left;
+  margin-right: 120px;
+  padding-bottom: 30px;
+}
+
+#donut {
+  height: 15%;
+  width: 15%;
+  float: right;
+  margin-left: 100px;
+}
+
+.btn {
+  	-moz-box-shadow:inset 0px 1px 0px 0px #d8b2f7;
+  	-webkit-box-shadow:inset 0px 1px 0px 0px #d8b2f7;
+  	box-shadow:inset 0px 1px 0px 0px #d8b2f7;
+  	background-color:#d7a9fc;
+  	-webkit-border-top-left-radius:3px;
+  	-moz-border-radius-topleft:3px;
+  	border-top-left-radius:3px;
+  	-webkit-border-top-right-radius:3px;
+  	-moz-border-radius-topright:3px;
+  	border-top-right-radius:3px;
+  	-webkit-border-bottom-right-radius:3px;
+  	-moz-border-radius-bottomright:3px;
+  	border-bottom-right-radius:3px;
+  	-webkit-border-bottom-left-radius:3px;
+  	-moz-border-radius-bottomleft:3px;
+  	border-bottom-left-radius:3px;
+  	text-indent:0px;
+  	border:1px solid #d8b2f7;
+  	display:inline-block;
+  	color:#ffffff;
+  	font-family:Verdana;
+  	font-size:15px;
+  	font-weight:bold;
+  	font-style:normal;
+  	height:37px;
+  	line-height:37px;
+  	width:100px;
+  	text-decoration:none;
+  	text-align:center;
+  	text-shadow:1px 1px 0px #cfa6f0;
+  }.classname:hover {
+  	background-color:#c572f2;
+  }.classname:active {
+  	position:relative;
+  	top:1px;
+  }
+  /* This button was generated using CSSButtonGenerator.com */
+
+/* FIXME: EXAMPLE
+.yellow {
+  height: 100px;
+  width: 100px;
+  position: fixed;
+  top: 0;
+}
