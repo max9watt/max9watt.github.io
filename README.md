@@ -1,3 +1,1 @@
-# max9watt.github.io
-
-will be a personal blog page
+https://max9watt.github.io/index.html
